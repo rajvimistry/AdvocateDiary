@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RAJVI</Machine>
+    <WindowsUser>Rajvi</WindowsUser>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\Advocate_Diary.exe">
+      <PackagePath>Advocate_Diary.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\Advocate_Diary.pdb">
+      <PackagePath>Advocate_Diary.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\SQLite.WinRT\3.8.2\Redist\Debug\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\SQLite.WinRT\3.8.2\Redist\Debug\x86\sqlite3.pdb">
+      <PackagePath>sqlite3.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\lawyer_profile.jpg">
+      <PackagePath>Images\lawyer_profile.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\Post_feedback.jpg">
+      <PackagePath>Images\Post_feedback.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\View_Feedback.jpg">
+      <PackagePath>Images\View_Feedback.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\Add_new_article.jpg">
+      <PackagePath>Images\Add_new_article.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\Article_view.jpg">
+      <PackagePath>Images\Article_view.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\Consumer_homepage.jpg">
+      <PackagePath>Images\Consumer_homepage.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\Event.jpg">
+      <PackagePath>Images\Event.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\Lawyer_homepage.jpg">
+      <PackagePath>Images\Lawyer_homepage.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\list_of_articles.jpg">
+      <PackagePath>Images\list_of_articles.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\Message.jpg">
+      <PackagePath>Images\Message.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\search.jpg">
+      <PackagePath>Images\search.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\settings.jpg">
+      <PackagePath>Images\settings.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\update_info.jpg">
+      <PackagePath>Images\update_info.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\advocate_login.jpg">
+      <PackagePath>Images\advocate_login.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\Client_info.jpg">
+      <PackagePath>Images\Client_info.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\Client_info_add.jpg">
+      <PackagePath>Images\Client_info_add.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\forgot_password1.jpg">
+      <PackagePath>Images\forgot_password1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\REG_ADVOCATE%28final%29.jpg">
+      <PackagePath>Images\REG_ADVOCATE%28final%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\REG_ADVOCATE1.jpg">
+      <PackagePath>Images\REG_ADVOCATE1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\2nd page advcate.jpg">
+      <PackagePath>Images\2nd page advcate.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\advocate1.jpg">
+      <PackagePath>Images\advocate1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Images\f3.jpg">
+      <PackagePath>Images\f3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\settings.xaml">
+      <PackagePath>settings.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\list_of_articles.xaml">
+      <PackagePath>list_of_articles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\Event1.xaml">
+      <PackagePath>Event1.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\Article_view.xaml">
+      <PackagePath>Article_view.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\Add_article.xaml">
+      <PackagePath>Add_article.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\forgot_passwordPage.xaml">
+      <PackagePath>forgot_passwordPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\consumer_settings.xaml">
+      <PackagePath>consumer_settings.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\message.xaml">
+      <PackagePath>message.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\QnA_forum.xaml">
+      <PackagePath>QnA_forum.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\add_client_detail.xaml">
+      <PackagePath>add_client_detail.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\ans.xaml">
+      <PackagePath>ans.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\client_info.xaml">
+      <PackagePath>client_info.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\update_info.xaml">
+      <PackagePath>update_info.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\Lawyer_info.xaml">
+      <PackagePath>Lawyer_info.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\post_feedback.xaml">
+      <PackagePath>post_feedback.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\feedback_form.xaml">
+      <PackagePath>feedback_form.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\search_page_consumer.xaml">
+      <PackagePath>search_page_consumer.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\search_page.xaml">
+      <PackagePath>search_page.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\registration_page.xaml">
+      <PackagePath>registration_page.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\consumer_homepage.xaml">
+      <PackagePath>consumer_homepage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\lawyer_homepage.xaml">
+      <PackagePath>lawyer_homepage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00.Debug</Name>
+      <Version>11.0.50727.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00.Debug, MinVersion = 11.0.50727.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00.Debug</Name>
+      <Version>11.0.50727.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00.Debug, MinVersion = 11.0.50727.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00.Debug</Name>
+      <Version>11.0.50727.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00.Debug, MinVersion = 11.0.50727.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

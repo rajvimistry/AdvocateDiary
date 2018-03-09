@@ -1,0 +1,53 @@
+﻿<Page
+    x:Class="Advocate_Diary.QnA_forum"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Advocate_Diary"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock x:Name="tbl1" HorizontalAlignment="Left" Margin="49,85,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="25" Width="75"/>
+        <Button x:ConnectionId='1' Content="Home" HorizontalAlignment="Left" Margin="129,38,0,0" VerticalAlignment="Top" Width="95" Height="53"                       />
+        <Button x:ConnectionId='2' Content="Post" HorizontalAlignment="Left" Margin="1155,615,0,0" VerticalAlignment="Top" Height="53" Width="122"                       />
+        <TextBox x:Name="tbx1" HorizontalAlignment="Left" Margin="292,615,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="763" Height="45"/>
+        <ListView x:Name="lv1" HorizontalAlignment="Left" Height="470" Margin="158,127,0,0" VerticalAlignment="Top" Width="1119">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Vertical">
+                        <TextBlock x:Name="id" Text="{Binding qno}"/>
+                        <Border Width="80"></Border>
+                        <TextBlock x:Name="address" Text="{Binding question}"/>
+                        <Border Width="80"/>
+                        <TextBlock x:Name="answer1" Text="{Binding ans1}"/>
+                        <Border Width="80"></Border>
+                        <TextBlock x:Name="answer2" Text="{Binding ans2}"/>
+                        <Border Width="80"></Border>
+                        <TextBlock x:Name="answer3" Text="{Binding ans3}"/>
+                        <Border Width="80"></Border>
+                        <TextBlock x:Name="answer4" Text="{Binding ans4}"/>
+                        <Border Width="80"></Border>
+                        <TextBlock x:Name="answer5" Text="{Binding ans5}"/>
+                        <Border Width="80"></Border>
+                        <TextBlock x:Name="answer6" Text="{Binding ans6}"/>
+                        <Border Width="80"></Border>
+                        <TextBlock x:Name="answer7" Text="{Binding ans7}"/>
+                        <Border Width="80"></Border>
+                        <TextBlock x:Name="answer8" Text="{Binding ans8}"/>
+                        <Border Width="80"></Border>
+                        <TextBlock x:Name="answer9" Text="{Binding ans9}"/>
+                        <Border Width="80"></Border>
+                        <TextBlock x:Name="answer10" Text="{Binding ans10}"/>
+                        <Border Width="80"></Border>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button x:ConnectionId='3' Content="Give Answer" HorizontalAlignment="Left" Margin="1155,694,0,0" VerticalAlignment="Top" Width="122" Height="41"                       />
+        <TextBox x:Name="tbx2" HorizontalAlignment="Left" Margin="925,694,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="84" Height="41"/>
+
+
+    </Grid>
+</Page>
+

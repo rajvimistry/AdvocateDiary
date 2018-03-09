@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RAJVI</Machine>
+    <WindowsUser>Rajvi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>E7DA392DC1CAA3B6CC519634C0EF5C55F7CBF26A64406FD02938300F77D18D69</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>19b16da7-4b86-4159-8ea0-4b78653e44ef_1.0.0.0_neutral__cxpw7773b96kj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>19b16da7-4b86-4159-8ea0-4b78653e44ef_cxpw7773b96kj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>19b16da7-4b86-4159-8ea0-4b78653e44ef</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Rajvi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-24T11:33:01.456</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\Debug\Advocate_Diary.exe">
+      <PackagePath>Advocate_Diary.exe</PackagePath>
+      <Modified>2014-12-24T11:37:04.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\Debug\Advocate_Diary.pdb">
+      <PackagePath>Advocate_Diary.pdb</PackagePath>
+      <Modified>2014-12-24T11:37:04.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-12-24T10:50:31.794</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\Debug\BlankPage2.xaml">
+      <PackagePath>BlankPage2.xaml</PackagePath>
+      <Modified>2014-12-24T11:32:44.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\Debug\BlankPage1.xaml">
+      <PackagePath>BlankPage1.xaml</PackagePath>
+      <Modified>2014-12-24T11:32:44.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-12-24T11:32:44.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rajvi\documents\visual studio 2012\Projects\Advocate_Diary\Advocate_Diary\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-12-24T11:33:01.102</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
